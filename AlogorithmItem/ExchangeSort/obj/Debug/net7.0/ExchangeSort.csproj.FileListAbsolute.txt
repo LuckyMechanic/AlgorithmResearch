@@ -1,0 +1,15 @@
+G:\Project\AlgorithmResearch\AlogorithmItem\ExchangeSort\bin\Debug\net7.0\ExchangeSort.exe
+G:\Project\AlgorithmResearch\AlogorithmItem\ExchangeSort\bin\Debug\net7.0\ExchangeSort.deps.json
+G:\Project\AlgorithmResearch\AlogorithmItem\ExchangeSort\bin\Debug\net7.0\ExchangeSort.runtimeconfig.json
+G:\Project\AlgorithmResearch\AlogorithmItem\ExchangeSort\bin\Debug\net7.0\ExchangeSort.dll
+G:\Project\AlgorithmResearch\AlogorithmItem\ExchangeSort\bin\Debug\net7.0\ExchangeSort.pdb
+G:\Project\AlgorithmResearch\AlogorithmItem\ExchangeSort\obj\Debug\net7.0\ExchangeSort.csproj.AssemblyReference.cache
+G:\Project\AlgorithmResearch\AlogorithmItem\ExchangeSort\obj\Debug\net7.0\ExchangeSort.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\AlgorithmResearch\AlogorithmItem\ExchangeSort\obj\Debug\net7.0\ExchangeSort.AssemblyInfoInputs.cache
+G:\Project\AlgorithmResearch\AlogorithmItem\ExchangeSort\obj\Debug\net7.0\ExchangeSort.AssemblyInfo.cs
+G:\Project\AlgorithmResearch\AlogorithmItem\ExchangeSort\obj\Debug\net7.0\ExchangeSort.csproj.CoreCompileInputs.cache
+G:\Project\AlgorithmResearch\AlogorithmItem\ExchangeSort\obj\Debug\net7.0\ExchangeSort.dll
+G:\Project\AlgorithmResearch\AlogorithmItem\ExchangeSort\obj\Debug\net7.0\refint\ExchangeSort.dll
+G:\Project\AlgorithmResearch\AlogorithmItem\ExchangeSort\obj\Debug\net7.0\ExchangeSort.pdb
+G:\Project\AlgorithmResearch\AlogorithmItem\ExchangeSort\obj\Debug\net7.0\ExchangeSort.genruntimeconfig.cache
+G:\Project\AlgorithmResearch\AlogorithmItem\ExchangeSort\obj\Debug\net7.0\ref\ExchangeSort.dll
